@@ -1,2 +1,26 @@
-# python-chat-application
-🚀 Built a TCP Client–Server Chat Application using Python sockets. The server binds to a host and port, listens for connections, and enables real-time communication over localhost (127.0.0.1). Demonstrates understanding of TCP protocol, IP addressing, port management, and network programming fundamentals. 💬🌐
+# Python TCP Chat Application 💬
+
+A simple client-server chat application built using Python sockets.
+
+## 🚀 Features
+- Real-time messaging
+- TCP communication
+- Localhost (127.0.0.1) connection
+- Multi-client support
+- GUI built with Tkinter
+- Typing indicator & notifications
+
+## 🛠 Technologies Used
+- Python
+- Socket Programming (TCP/IP)
+- Tkinter (GUI)
+- Multithreading
+
+## ▶️ How to Run
+
+### 1️⃣ Start the Server
+```bash
+python server.
+
+2️⃣ Start the Client
+python client.py
